@@ -1,2 +1,2 @@
-# aHi-icons
-for Blogger Template
+# aHí icons
+for Blogspot template
